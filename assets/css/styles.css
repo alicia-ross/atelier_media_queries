@@ -1,16 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
-
 
 @font-face {
     font-family: "Nunito";
-    src: url(/assets/fonts/nunito-variablefont_wght-webfont.woff2) format("woff2");
-    src: url(/assets/fonts/nunito-variablefont_wght-webfont.woff) format("woff");
+    src: url(../fonts/nunito-variablefont_wght-webfont.woff2) format("woff2");
+    src: url(../fonts/nunito-variablefont_wght-webfont.woff) format("woff");
 }
 
 @font-face {
     font-family: "Indie";
-    src: url(/assets/fonts/indieflower-regular-webfont.woff2) format("woff2");
-    src: url(/assets/fonts/indieflower-regular-webfont.woff) format("woff");
+    src: url(../fonts/indieflower-regular-webfont.woff2) format("woff2");
+    src: url(../fonts/indieflower-regular-webfont.woff) format("woff");
 }
 
 body {
