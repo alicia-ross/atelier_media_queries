@@ -1,14 +1,12 @@
 
 @font-face {
     font-family: "Nunito";
-    src: url(../fonts/nunito-variablefont_wght-webfont.woff2) format("woff2");
-    src: url(../fonts/nunito-variablefont_wght-webfont.woff) format("woff");
+    src: url(/assets/fonts/nunito-variablefont_wght-webfont.woff2) format("woff2");
 }
 
 @font-face {
     font-family: "Indie";
-    src: url(../fonts/indieflower-regular-webfont.woff2) format("woff2");
-    src: url(../fonts/indieflower-regular-webfont.woff) format("woff");
+    src: url(/assets/fonts/indieflower-regular-webfont.woff2) format("woff2");
 }
 
 body {
